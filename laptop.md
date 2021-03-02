@@ -1,7 +1,7 @@
 ------------------------------------
 # Comptia A+ Exam Notes
 ------------------------------------
-**# Topics Covered:**
+### Topics Covered:
 
 * Laptop Hardware
 * Laptop Displays
