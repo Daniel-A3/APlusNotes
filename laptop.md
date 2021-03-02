@@ -14,7 +14,6 @@
 
 #### Laptop Storage
 
-
  - Laptops usually use HDDs(Hard Drives), SSDs(Solid State Drives) and SSHDs(Solid State Hybrid Drives).
 
  - SSDs usually come in the form factor of 2.5 inches and 1.8 inches, they are by far the fastest and 
@@ -30,15 +29,65 @@
 
  #### Laptop Memory
 
-
  - Laptops have smaller memory. Usually they are SO-SIMM or Mircro-DIMM
 
- ##### Smart Card Reader
-  
+ #### Smart Card Reader
 
  - For extra security, some Laptops have smart card readers for authentication purposes.
 
  #### Optical Drives
 
-
  - Nowadays Laptops are getting smaller and smaller so it is getting harder to find laptops that have optical drives in them, but when they do the optical drives are often removable, can be replaced with other media and can read and write.
+
+ #### Wireless Cards
+
+ - This is used where laptops do not have a wired connection ethernet option. 
+ - Laptops will usually have a number of different wireless cards, This can include adapters for wireless connections(__WLAN - Wireless Local Area Network__), cellular based wireless connections(__WWAN - Wireless Wide Area Network__) and bluetooth connections(__WPAN - Wireless Personal Area Network__).
+ - They usually use mini PCI or mini PCI express.
+
+ #### Video Cards (GPUs)
+
+ - GPUs are mostly __built into the laptops processor or system board__ as there is limited space, this is very limited and not upgradable.
+ - However some laptops have upgradable video cards, however they will not be slim.
+
+ #### LCD (Liquid Crystal Display) Screen
+
+ - Light and high-resolution, very *fragile*.
+
+ #### Power
+
+ - Laptops are powered with Direct Current through the DC jack, and usually come with AC adapters so that you can charge your laptop using mains electricity.
+ - The input voltage is usually *110 volts or 220 volts*.
+ - Laptops are very specific so its useful to make sure a power supply is compatible with your laptop 
+ before buying one.
+
+ #### Laptop Batteries
+
+ - Most laptops use Lithium ion batteries.
+ - Every time you charge the battery, you slightly diminish the capacity.
+ - Very specific and has different form-factors for each laptops. Different laptop model batteries may not be compatible with each other.
+
+ #### Touchpad
+
+ - A touch pad is included, this is to aid in the compactness of the laptop and allow normal usage when the user does not have a mouse at hand.
+
+ #### Laptop Frame
+
+ - Usually plastic, this is to make it lightweight, mobile, durable and inexpensive.
+ - Some laptops have a metal frame, this is more durable than plastic however it can be more difficult to repair.
+
+ #### Speakers
+
+ - Self-containted in the laptop. Usually not of the highest quality and are stereo(L/R)
+
+ ### Motherboard
+
+ - Usually built to fit, different laptop models usually have very different sizes and shapes of motherboards, this also means they don't have the usual ractangle shape that normal desktop computers have.
+ - This makes replacement a hassle, as if there is a part of the motherboard that is faulty then you wil have to replace the entire motherboard, what adds to the hassle is that most laptop components are attached to the motherboard, so you will have to take everything out.
+
+ ### CPU (Central Processing Unit)
+
+ - Designed for mobility, low power usage and low heat output.
+ - Usually have a lot of integrated features, like a memory and video controller.
+ - They are not very upgradable however you are usually able to replace it.
+ - The laptop CPUs are often much slower than their desktop counterparts as they need to worry about the size and heat.
