@@ -6,7 +6,7 @@
 * Laptop Hardware
 * Laptop Displays
 * Laptop Features
-
+<span style="color:blue">some *blue* text</span>
 ------------------------------------
 
  - Laptops usually use HDDs(Hard Drives), SSDs(Solid State Drives) and SSHDs(Solid State Hybrid Drives).
