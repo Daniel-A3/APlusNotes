@@ -63,8 +63,8 @@
 
  #### Laptop Batteries
 
- - Most laptops use Lithium ion batteries.
- - Every time you charge the battery, you slightly diminish the capacity.
+ - Most laptops use __Lithium ion batteries__.
+ - Every time you *charge the battery, you slightly diminish the capacity*.
  - Very specific and has different form-factors for each laptops. Different laptop model batteries may not be compatible with each other.
 
  #### Touchpad
@@ -73,21 +73,87 @@
 
  #### Laptop Frame
 
- - Usually plastic, this is to make it lightweight, mobile, durable and inexpensive.
+ - Usually plastic, this is to make it __lightweight, mobile, durable and inexpensive__.
  - Some laptops have a metal frame, this is more durable than plastic however it can be more difficult to repair.
 
  #### Speakers
 
  - Self-containted in the laptop. Usually not of the highest quality and are stereo(L/R)
 
- ### Motherboard
+ #### Motherboard
 
- - Usually built to fit, different laptop models usually have very different sizes and shapes of motherboards, this also means they don't have the usual ractangle shape that normal desktop computers have.
- - This makes replacement a hassle, as if there is a part of the motherboard that is faulty then you wil have to replace the entire motherboard, what adds to the hassle is that most laptop components are attached to the motherboard, so you will have to take everything out.
+ - __Usually built to fit__, different laptop models usually have very different sizes and shapes of motherboards, this also means they don't have the usual rectangle shape that normal desktop computers have.
+ - This makes *replacement a hassle*, as if there is a part of the motherboard that is faulty then you wil have to replace the entire motherboard, what adds to the hassle is that most laptop components are attached to the motherboard, so you will have to take everything out.
 
- ### CPU (Central Processing Unit)
+ #### CPU (Central Processing Unit)
 
- - Designed for mobility, low power usage and low heat output.
- - Usually have a lot of integrated features, like a memory and video controller.
- - They are not very upgradable however you are usually able to replace it.
- - The laptop CPUs are often much slower than their desktop counterparts as they need to worry about the size and heat.
+ - Designed for __mobility, low power usage and low heat output__.
+ - Usually have a lot of __integrated features__, like a memory and video controller.
+ - They are __not very upgradable__ however you are usually able to replace it.
+ - The laptop CPUs are often much __slower__ than their desktop counterparts as they need to worry about the size and heat.
+
+
+ ------------------------------------
+ ### Section 2 : Laptop Displays
+ ------------------------------------
+
+ ### Portable LCDs (Liquid Crystal Displays)
+
+ - Shines light through liquid crystals. Require backlights.
+ - __PROS :__
+ - Lightweight, relatively low power and inexpensive.
+ - __CONS :__
+ - Not good at representing black colour due to backlight.
+ - Difficult to replace.
+
+ ### OLEDs (Organic Light Emitting Diodes)
+
+ - __PROS :__
+ - Emits light when receiving an electrical current.
+ - Thinner and lighter, no glass needed.
+ - No backlight needed as the organic compound provides the light.
+ - __CONS :__
+ - Not quite ready for laptops, the organic materials degrade over time.
+ - Decayed images can remain on the screen.
+ - More costly and power hungry than LCD.
+
+ ### Laptop Webcam
+
+ - Captures video, usually has built-in camera and microphone.
+ - Requires specialized drivers and software.
+
+ ### Laptop Microphone
+
+ - Built-in, useful for video calls.
+ - Not good for professional and non-casual use.
+
+ ### Display Backlights and inverters.
+
+ - __LED-backlit LCD display:__
+ - LCD display but backlit with LEDs instead of fluorescent.
+ - Most new laptops use this.
+ - __Fluorescent__
+ - Need more voltage and power.
+ - Not commonly used anymore. Older laptops use these.
+ - Make the display thicker.
+ - __Inverters__
+ - Some laptops have inverters to convert DC current into AC current.
+ 
+ - To verify if a __backlight__ is working you can look closely with a flashlight to see if any information is actually being shown on the screen.
+ - To *fix the backlight* you may need to replace the LCD inverter or the entire display.
+
+ ### Digitizer
+
+ - Allows a pen-like device as graphical input on the display. Becoming more commone on laptops, tablets and hybrid devices.
+
+ ### Touchscreen
+
+ - No keyboard required, but often available.
+ - Allows you to use your fingers as physical input.
+
+
+ ------------------------------------
+ ### Section 3 : Laptop Features
+ ------------------------------------
+
+ 
