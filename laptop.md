@@ -156,4 +156,27 @@
  ### Section 3 : Laptop Features
  ------------------------------------
 
- 
+ ### Laptop Keys
+
+ - The keys on a laptop are usually compressed to accomodate for the limited amount of space.
+ - The keyboard can include function keys that can control the laptops different features. For example managing multiple displays, sound, brightness, keyboard backlight etc.
+ - A lot of laptops have a key/button/switch that can disable wireless connections/gps completely.
+
+ ### Media Options
+
+ - Allows the user to stop, play, fastforward media, usually buttons on the laptop, seperate from the keyboard or part of the function keys.
+
+ ## Docking Station
+
+ - Allows you to use an external keyboard and mouse.
+ - Allows you to extend the laptop interfaces and functionality.
+
+ ## Physical Laptop Lock
+
+ - Prevents people from stealing your laptop.
+ - Laptops include metal-reinforced locking slots which allow you to do this.
+
+ ## Rotating / Moving screens
+
+ - Combine a laptop with the functionality of a tablet.
+ - This could include stylus compatibility and touchscreen on the monitor.
