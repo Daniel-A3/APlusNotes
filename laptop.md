@@ -97,7 +97,7 @@
  ### Section 2 : Laptop Displays
  ------------------------------------
 
- ### Portable LCDs (Liquid Crystal Displays)
+ #### Portable LCDs (Liquid Crystal Displays)
 
  - Shines light through liquid crystals. Require backlights.
  - __PROS :__
@@ -106,7 +106,7 @@
  - Not good at representing black colour due to backlight.
  - Difficult to replace.
 
- ### OLEDs (Organic Light Emitting Diodes)
+ #### OLEDs (Organic Light Emitting Diodes)
 
  - __PROS :__
  - Emits light when receiving an electrical current.
@@ -117,17 +117,17 @@
  - Decayed images can remain on the screen.
  - More costly and power hungry than LCD.
 
- ### Laptop Webcam
+ #### Laptop Webcam
 
  - Captures video, usually has built-in camera and microphone.
  - Requires specialized drivers and software.
 
- ### Laptop Microphone
+ #### Laptop Microphone
 
  - Built-in, useful for video calls.
  - Not good for professional and non-casual use.
 
- ### Display Backlights and inverters.
+ #### Display Backlights and inverters.
 
  - __LED-backlit LCD display:__
  - LCD display but backlit with LEDs instead of fluorescent.
@@ -142,11 +142,11 @@
  - To verify if a __backlight__ is working you can look closely with a flashlight to see if any information is actually being shown on the screen.
  - To *fix the backlight* you may need to replace the LCD inverter or the entire display.
 
- ### Digitizer
+ #### Digitizer
 
  - Allows a pen-like device as graphical input on the display. Becoming more commone on laptops, tablets and hybrid devices.
 
- ### Touchscreen
+ #### Touchscreen
 
  - No keyboard required, but often available.
  - Allows you to use your fingers as physical input.
@@ -156,27 +156,27 @@
  ### Section 3 : Laptop Features
  ------------------------------------
 
- ### Laptop Keys
+ #### Laptop Keys
 
  - The keys on a laptop are usually compressed to accomodate for the limited amount of space.
  - The keyboard can include function keys that can control the laptops different features. For example managing multiple displays, sound, brightness, keyboard backlight etc.
  - A lot of laptops have a key/button/switch that can disable wireless connections/gps completely.
 
- ### Media Options
+ #### Media Options
 
  - Allows the user to stop, play, fastforward media, usually buttons on the laptop, seperate from the keyboard or part of the function keys.
 
- ### Docking Station
+ #### Docking Station
 
  - Allows you to use an external keyboard and mouse.
  - Allows you to extend the laptop interfaces and functionality.
 
- ### Physical Laptop Lock
+ #### Physical Laptop Lock
 
  - Prevents people from stealing your laptop.
  - Laptops include metal-reinforced locking slots which allow you to do this.
 
- ### Rotating / Moving screens
+ #### Rotating / Moving screens
 
  - Combine a laptop with the functionality of a tablet.
  - This could include stylus compatibility and touchscreen on the monitor.
