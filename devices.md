@@ -81,13 +81,13 @@
  - Authentication usually required.
  - Port numbers are different : SMTP(No Authentication) - tcp/25, SMTP(With Authentication) - tcp/587.
 
- - ### Microsoft Exchange:
+ - #### Microsoft Exchange:
  - Not used at home, but at an enterprise environment.
  - Has more features than just email : contacts, calenders, reminders.
  - Configuration Options : you usually need to provide - email, server, domain, username, password.
  - Intergrated message encryption with S/MIME, allows you to encrypt and digitally sign.
 
- - ### Commercial Email Providers:
+ - #### Commercial Email Providers:
  - Gmail - Google email, splits inbox into tabs, uses IMAP4 and POP3.
  - Yahoo - IMAP4 and POP3
  - ICloud Apple - IMAP4 and POP3
