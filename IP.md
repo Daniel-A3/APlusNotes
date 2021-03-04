@@ -14,4 +14,4 @@
 
  - Allows you to efficiently move large amounts of data across a network.
  - Internet Protocol sends information using an __Ethernet Frame__:
- ![Picture of Internet Protocol Frame](images/IP_Frame.png)
+ ![Picture of Internet Protocol Frame](images/IP_Frame.PNG)
