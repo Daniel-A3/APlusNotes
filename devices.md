@@ -54,7 +54,7 @@
 
 
 ------------------------------------
-### Section 2 : Email
+### Section 2 : Email on Devices
 ------------------------------------
 
 #### Email Configurations
@@ -64,5 +64,30 @@
  - Corporate Emails : Microsoft Exchange
  - Intergrated Providers : ICloud, Google, Exchange Online, Yahoo
 
- - #### POP3 :
- - 
+ - #### POP3 (Post Office Protocol 3):
+ - Used for downloading mail to local mail client.
+ - Downloads and optionally deletes from server.
+ - Not used a lot anymore.
+ - To connect to POP3 server, you need to provide the configuration information, this includes the name of the POP3 server, for authentication your username and password, you may also be required to provide a port number, this will be defined by your ISP but the default is tcp/110 for POP3, and tcp/995 for SSL(Secure Socket Layer) POP3.
+
+ - #### IMAP (Internet Message Access Protocol 4):
+ - Allows acces to mail on a central server.
+ - The mail is usually stored on the server.
+ - Configuration information is similar to POP3, but the default ports are: IMAP - tcp/143 or SSL IMAP - tcp/993.
+
+ - #### SMTP (Simple Mail Transfer Protocol):
+ - Send mail from a device to a mail server, or between mail servers.
+ - Usually sent from a trusted device.
+ - Authentication usually required.
+ - Port numbers are different : SMTP(No Authentication) - tcp/25, SMTP(With Authentication) - tcp/587.
+
+ - ### Microsoft Exchange:
+ - Not used at home, but at an enterprise environment.
+ - Has more features than just email : contacts, calenders, reminders.
+ - Configuration Options : you usually need to provide - email, server, domain, username, password.
+ - Intergrated message encryption with S/MIME, allows you to encrypt and digitally sign.
+
+ - ### Commercial Email Providers:
+ - Gmail - Google email, splits inbox into tabs, uses IMAP4 and POP3.
+ - Yahoo - IMAP4 and POP3
+ - ICloud Apple - IMAP4 and POP3
